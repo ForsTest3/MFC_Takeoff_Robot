@@ -28,9 +28,9 @@ Designed to maximize point score in head-to-head matches by efficiently collecti
 
 ---
 
-Clip compilation. https://youtu.be/pTwNambUDn0
-
 ### Takeaways
 - The meta seemed to heavily favour shovelling blocks into the zones, rather than carrying them within
 - The claw itself had a limited range of motion and restricted mobility, with its ability to pick up blocks largely hinging on operator skill (it proved reasonably operable, but could use improvements)
 - And notably, we could've taken more liberties with our design and decorations
+
+Clip compilation. https://youtu.be/pTwNambUDn0
